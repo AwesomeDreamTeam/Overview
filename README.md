@@ -5,7 +5,6 @@ This is the product overview section of the Front End Capstone project. It inclu
 - Style Selector
 - Add to Cart
 - Image Gallery
-- Logo/Announcements
 
 ## Related Projects
 
