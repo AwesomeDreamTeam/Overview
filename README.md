@@ -1,4 +1,4 @@
-# Front End Capstone - Product Overview
+# ADT E-Commerce - Product Overview
 
 This is the product overview section of the Front End Capstone project. It includes these sections:
 - Product Info
