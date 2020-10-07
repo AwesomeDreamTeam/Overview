@@ -1,6 +1,6 @@
 # ADT E-Commerce - Product Overview
 
-This is the product overview section of the Front End Capstone project. It includes these sections:
+This is the product overview section of a mock E-Commerce web app. It includes these sections:
 - Product Info
 - Style Selector
 - Add to Cart
@@ -37,7 +37,6 @@ An `nvmrc` file is included if using [nvm](https://github.com/creationix/nvm).
 - Node 6.13.0
 - etc
 
-## Development
 
 ### Installing Dependencies
 
