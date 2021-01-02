@@ -11,6 +11,9 @@ This is the product overview section of a mock E-Commerce web app. It includes t
   - https://github.com/AwesomeDreamTeam/related-items
   - https://github.com/AwesomeDreamTeam/reviews
 
+## Demo
+
+![Product Overview Demo](https://i.imgur.com/ltkOWWO.gif)
 
 ## Table of Contents
 
