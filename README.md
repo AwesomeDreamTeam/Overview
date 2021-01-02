@@ -13,7 +13,7 @@ This is the product overview section of a mock E-Commerce web app. It includes t
 
 ## Demo
 
-![Product Overview Demo](https://i.imgur.com/ltkOWWO.gif)
+![Product Overview Demo](https://i.imgur.com/f0P5cvk.gif)
 
 ## Table of Contents
 
