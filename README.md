@@ -5,6 +5,7 @@ This is the product overview section of a mock E-Commerce web app. It includes t
 - Style Selector
 - Add to Cart
 - Image Gallery
+- Social Media Integration
 
 ## Related Projects
 
