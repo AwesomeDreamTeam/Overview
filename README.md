@@ -20,7 +20,6 @@ This is the product overview section of a mock E-Commerce web app. It includes t
 
 1. [Usage](#Usage)
 1. [Requirements](#requirements)
-1. [Development](#development)
 
 ## Usage
 In two separate terminals:
